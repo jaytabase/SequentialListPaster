@@ -13,12 +13,11 @@ Note you must have [AutoHotKey](https://www.autohotkey.com/) installed.
 The hotkey is `ALT`+`V`
 
 ## How to Use
-1. A
-2. B
-3. C
-4. D
-5. E
-6. F
+1. Open paste_list_here.txt & add your list then save
+2. Open `Sequential List Paster (*Version*).ahk`
+3. Select your target and press `ALT`+`V` to paste the list
+4. At anytime you can press`ALT`+`B` to reload the script
+5. Make sure to do this if you update the list so that the script can fetch the latest data.
 
 ## Want an EXE?
 After installing AutoHotKey you can locate the official AutoHotKey compiler program which will compile the .AHK script and produce standalone EXEs that you can run on any windows machine without requiring AutoHotKey to be installed. It's usually located at: `C:\Program Files\AutoHotkey\Compiler\Ahk2Exe.exe` but you can always just press `Start` on Windows and search "AHK to .EXE" to find it that way.
